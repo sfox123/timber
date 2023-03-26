@@ -8,30 +8,11 @@
         </button>
         <a class="navbar-brand sticky_logo" href="index_1.html"><img src="images/logo-white.png" class="logo" alt=""></a>
       </div>
-      
-      <!-- <div class="collapse navbar-collapse nav_3 clearfix" id="navbar-menu">
-        <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-          <li class="dropdown active"> 
-              <a href="index-5.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-               <li class="dropdown">
-                <a href="#." class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-                <ul class="dropdown-menu">
-                  <li><a href="aboutUs.php">Vision, Mission & Objectives </a></li>
-                  <li><a href="organization.php">Organization Structure</a></li>
-                  <li><a href="profiles.php">Profiles / Board of Directors / Team of Management</a></li>
-                </ul>
-              </li>
-          </li>
-        </ul>
-      </div> -->
       <!-- End Header Navigation -->
        <div class="collapse navbar-collapse nav_3 clearfix" id="navbar-menu">
          <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
           <li class="dropdown active"> 
-            
-
             <a href="index-5.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-
               <li class="dropdown">
                 <a href="#." class="dropdown-toggle" data-toggle="dropdown">About Us</a>
                 <ul class="dropdown-menu">
