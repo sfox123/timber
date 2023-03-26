@@ -120,8 +120,13 @@
         <div class="widget dark">
           <!-- <h5 class="widget-title mb-10">Have any Questions ?</h5> -->
           <form class="padding-top-30" method="post">
-            <input class="form-control email" placeholder="Your Email" type="text">
-            <button style="margin-top:10px" class="btn" type="submit"><span class="color_red">Subscribe </span></h2></button> 
+            <label for="exampleFormControlTextarea1">Email Address</label>
+            <input class="form-control email" placeholder="user@example.com" type="text">
+              <div style="margin-top:10px" class="form-group">
+                <label for="exampleFormControlTextarea1">Your Questions</label>
+                <textarea placeholder="Let us know, If you have anything to ask ?" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+            <button style="margin-top:10px" class="btn" type="submit"><span class="color_red">Submit </span></h2></button> 
           </form>
         </div>
       </div>
