@@ -8415,3 +8415,29 @@ a.close-overlay.hidden {
         top: -24%;
     }
 }
+
+.c1 {
+    padding-top: 4pt;
+    padding-bottom: 0pt;
+    line-height: 1.2;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.c0 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: "Proxima Nova";
+    font-style: normal
+}
+
+.centerBox{
+        text-align: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+}
